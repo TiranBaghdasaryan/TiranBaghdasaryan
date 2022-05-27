@@ -17,11 +17,11 @@
 
 #### Tech Stack
 
-**Client:** Unity Engine
+- **Client:** Unity Engine
 
-**Server:** ASP.NET Core Web API
+- **Server:** ASP.NET Core Web API
 
-**Database:** Microsoft SQL Server, MySQL
+- **Database:** Microsoft SQL Server, MySQL
 
 
 
