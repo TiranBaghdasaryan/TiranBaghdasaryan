@@ -15,6 +15,14 @@
 - 💬 Ask me about **unity**, **c#**, **mobile game development**
 - 📫 How to reach me: **tirbaghdasaryan@gmail.com**
 
+#### Tech Stack
+
+**Client:** Unity Engine
+
+**Server:** ASP.NET Core Web API
+
+**Database:** Microsoft SQL Server, MySQL
+
 
 
 
