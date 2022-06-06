@@ -13,7 +13,7 @@
 - 🎮 I’m currently working on new mobile games
 - 🌱 I'm currently improve my skills in SQL and English
 - 💬 Ask me about **unity**, **c#**, **mobile game development**
-- 📫 How to reach me: **tirbaghdasaryan@gmail.com**
+- 📫 How to reach me: **tirbaghdasaryan0808@gmail.com**
 
 #### Tech Stack
 
