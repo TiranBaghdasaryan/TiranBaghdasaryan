@@ -19,7 +19,7 @@
 
 - **Client:** Unity Engine
 
-- **Server:** ASP.NET Core Web API, UNET Networking
+- **Server:** ASP.NET Core Web API, UNet Networking
 
 - **Database:** Microsoft SQL Server, MySQL
 
